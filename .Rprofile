@@ -1,4 +1,2 @@
-#### -- Packrat Autoloader (version 0.5.0) -- ####
-source("packrat/init.R")
-#### -- End Packrat Autoloader -- ####
 token <- "Tn5lgoKArIeH45gWiwrXzkeHw"
+ggmaps_token <- "AIzaSyB201lwYuF0EZfFH_i4KWAJOp9f4qiaZ_w"
